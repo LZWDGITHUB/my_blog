@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as o}from"./app-BX4Gu1Tf.js";const s={},n=o("p",null,"'# Hello VuePress'",-1),c=[n];function r(l,_){return t(),a("div",null,c)}const d=e(s,[["render",r],["__file","index.html.vue"]]),h=JSON.parse('{"path":"/","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"README.md"}');export{d as comp,h as data};
